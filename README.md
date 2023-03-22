@@ -9,3 +9,4 @@ if run into an error for not giving option to create a basic app run
 3) ``` yarn add --dev prettier prettier-plugin-solidity ```
 4) ``` yarn hardhat run scripts/deploy.js ```
 5) ``` yarn add --dev dotenv ```
+6) ``` yarn hardhat run scripts/deploy.js --network ganache ```
