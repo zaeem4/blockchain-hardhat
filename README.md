@@ -1,4 +1,5 @@
-# blockchain-hardhat
+# blockchain-hardhat with test
+# code is in basic branch
 
 1)  ``` yarn init ```
 2)  ``` yarn add --dev hardhat ```
