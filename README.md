@@ -2,7 +2,7 @@
 # code is in basic branch
 
 1)  ``` yarn init ```
-2)  ``` yarn add --dev hardhat ```
+2)  ``` yarn add --dev hardhat ``` and then ``` yarn hardhat``` to install
 
 if run into an error for not giving option to create a basic app run:
   ``` ride % npx hardhat --verbose ```
